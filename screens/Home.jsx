@@ -10,7 +10,7 @@ const Home = () => {
       <View style= {styles.appBar}>
       <Ionicons name='location-outline' size={24} />
 
-      <Text style= {styles.location}> Shangai China </Text>
+      <Text style= {styles.location}> Shangai China deneme yazılı</Text>
 
     <View style={{alignItems:"flex-end"}}>
     <View style= {styles.cartCount}>
